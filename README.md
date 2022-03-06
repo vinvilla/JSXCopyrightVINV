@@ -1,2 +1,2 @@
-# JSXCopyrightVINV
+# JavascriptExpressionsInJSX
 Created with CodeSandbox
